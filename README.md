@@ -6,7 +6,7 @@ A clean and responsive **basic calculator** built using **HTML, CSS, and JavaScr
 
 ## 🔗 Live Demo
 
-👉 [View Live](https://calculator-9f5l.onrender.com)
+👉 [View Live](https://govindxsharma.github.io/Calculator/)
 
 
 ---
